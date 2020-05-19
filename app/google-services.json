@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239234412339",
+    "firebase_url": "https://thenewone-3b948.firebaseio.com",
+    "project_id": "thenewone-3b948",
+    "storage_bucket": "thenewone-3b948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239234412339:android:c1739bcd3a96b86a865846",
+        "android_client_info": {
+          "package_name": "com.example.themarkerproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239234412339-5bfdqinptf9q86p8ja3jhcopafia6nfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNHdB_cUGKDcQtYZPy0Ia06YZium1AKG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239234412339-5bfdqinptf9q86p8ja3jhcopafia6nfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

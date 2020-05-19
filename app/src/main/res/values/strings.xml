@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TheMarkerProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button">Button</string>
+    <string name="insert_details">Insert Details</string>
+    <string name="add">ADD</string>
+    <string name="text_details">Text Details</string>
+    <string name="marker_color">Marker Color</string>
+
+    <string-array name="colors_array">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Rose</item>
+    </string-array>
+</resources>
