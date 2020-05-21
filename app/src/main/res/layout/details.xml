@@ -6,6 +6,7 @@
     android:orientation="vertical"
     tools:context="Insert Marker Details">
 
+    <!--  Εδω ειναι ο κωδικας για το textview  -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -15,7 +16,7 @@
         android:textAlignment="center"
         android:textSize="24sp"
         android:textStyle="bold" />
-
+    <!--  Εδω ειναι ενα edittext που γραφουμε τεις πληροφοριες για τον marker και βαζω και το limit για 60 χαρακτηρες που ειναι περιπου 10 λεξεις -->
     <EditText
         android:id="@+id/Detailsthisisone"
         android:layout_width="match_parent"
@@ -26,7 +27,7 @@
         android:importantForAutofill="no"
         android:inputType="textPersonName"
         android:maxLength="60" />
-
+    <!--  Εδω ειναι ενα spinner για επιλογη χρωματος που γινετε απο ενα πινακα που εχω διμιουργησει μεσα στο strings.xml  -->
     <Spinner
         android:id="@+id/spinner1"
         android:layout_width="match_parent"
@@ -36,7 +37,7 @@
         android:entries="@array/colors_array"
         android:spinnerMode="dropdown"
         android:visibility="visible" />
-
+    <!--  Εδω ειναι ενα κουμπι ADD -->
     <Button
         android:id="@+id/buttonPaneldenxeroni"
         android:layout_width="wrap_content"

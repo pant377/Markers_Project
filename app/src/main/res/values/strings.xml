@@ -6,7 +6,7 @@
     <string name="add">ADD</string>
     <string name="text_details">Text Details</string>
     <string name="marker_color">Marker Color</string>
-
+    <!--  Ο πινακας με τα χρωματα για το Spinner -->
     <string-array name="colors_array">
         <item>Blue</item>
         <item>Green</item>
